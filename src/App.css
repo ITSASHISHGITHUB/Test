@@ -1,0 +1,61 @@
+.calculator { 
+  max-width: 300px;
+  margin: 0  auto;
+  text-align: center;
+  border:1px solid #000;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px ;
+}
+
+.header button { 
+  font-size: 18px;
+  margin-bottom: 10px;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  color: #000;
+}
+
+.line { 
+  height: 1px;
+  background-color: black;
+  margin-bottom: 10px;
+}
+
+.input{
+  font-size:24px;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: grey;
+  border:none;
+  border-radius:  5px;
+}
+
+.buttons button { 
+  font-size:18px;
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.equal-button { 
+  background-color: orange;
+  color: white;
+}
+
+.history { 
+  margin-top: 20px;
+
+}
+.history h2 { 
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.history div { 
+  margin-bottom: 5px;
+  font-size: 16px;
+}
